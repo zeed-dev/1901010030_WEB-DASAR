@@ -1,0 +1,23 @@
+Kriteria Fitur APLIKASI NONTONIN
+
+Kriteria 1: Daftar MOVIE
+Aplikasi harus menampilkan daftar movie populer, top rated, dan yang sedang tayang.
+
+Menampilkan movie populer dan sedang tayang pada satu halaman utama. (Anda boleh menampilkan pada halaman utama.
+Menampilkan daftar movie populer dan sedang tayang masing-masing pada satu halaman sendiri.
+
+Kriteria 2: Detail MOVIE
+Aplikasi harus menampilkan detail movie berdasarkan item yang dipilih.
+Halaman detail menampilkan poster, judul, rating, dan overview.
+Halaman detail menampilkan rekomendasi movie lainnya.
+
+Kriteria 3: Pencarian MOVIE
+Terdapat fitur untuk mencari judul MOVIE.
+Fitur pencarian berdasarkan judul dengan memanfaatkan API (bukan filtering secara lokal).
+
+Kriteria 4: Watchlist/Favorite
+Menambahkan MOVIE yang ingin ditonton ke dalam suatu daftar dan di tampilkan di halaman yang berbeda.
+
+KETENTUAN :
+Mengguanakan Javascript
+Deadline 1 Bulan
